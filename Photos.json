@@ -1,0 +1,29 @@
+{
+    "reviews": [
+	{
+            "nombre": "ana",
+            "imagen": "assets/imgages/ana-zelaya.PNG",
+        },
+        {
+            "nombre": "leo",
+            "imagen": "assets/imgages/leon.PNG",
+        },
+        {
+            "nombre": "jose",
+            "imagen": "assets/imgages/team_01.jpg",
+        },
+	{
+            "nombre": "noel",
+            "imagen": "assets/imgages/team_05.jpg",
+        },
+	{
+            "nombre": "valle",
+            "imagen": "assets/imgages/team_06.jpg",
+        },
+	{
+            "nombre": "antony",
+            "imagen": "assets/imgages/team_03.jpg",
+        },
+
+    
+   ]
